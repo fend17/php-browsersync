@@ -1,0 +1,12 @@
+{
+  "name": "php-browsersync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jesper Orb <jesperorb@gmail.com> (https://jesperorb.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "2.23.6",
+    "gulp": "3.9.1",
+    "gulp-connect-php": "1.0.3"
+  }
+}

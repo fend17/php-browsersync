@@ -1,5 +1,5 @@
 const gulp = require('gulp');
-const connect = require('gulp-connect-php');
+const connect = require('gulp-connect-php7');
 const browserSync = require('browser-sync');
 
 gulp.task('default', () => {

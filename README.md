@@ -1,5 +1,5 @@
 # PHP + BrowserSync
-> Reload page on save
+> Reload page on save, requires `node` and `npm`
 
 ## Installation
 
